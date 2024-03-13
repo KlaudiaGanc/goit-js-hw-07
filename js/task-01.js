@@ -8,4 +8,4 @@ categories.forEach((category) => {
     console.log(`Category: ${categoryName}`);
     console.log(`Elements ${categoryElements}`);
 
-)}
+});
